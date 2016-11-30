@@ -25,7 +25,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/Cache.java" target-dir="src/com/apache/cordova/plugin/cache" />
+        <source-file src="src/android/Cache.java" target-dir="src/org/apache/cordova/plugin/cache" />
     </platform>
 
     <!-- ios -->
